@@ -1,3 +1,4 @@
+<<!DOCTYPE html>>
 <html>
   <body bgcolor="#FF0000">
     <table>
