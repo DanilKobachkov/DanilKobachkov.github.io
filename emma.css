@@ -5,5 +5,5 @@ align:center;
 color:White;
 height:200px;
 width:200px; 
-background-color: #000000; 
+background-color: #000000;  /*заливает чёрный фон всех ячеек всенх таблиц*/
 }
