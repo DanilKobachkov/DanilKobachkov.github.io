@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body background=>
+
+p { 
+  font-size: 120%; 
+    font-family: Arial;
+    color: White; 
+  }  
+  </style>
+</html>
