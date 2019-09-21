@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body background=>
+<link rel="stylesheet" type="text/css" href="map.css">
 
-p { 
-  font-size: 120%; 
-    font-family: Arial;
-    color: White; 
-  }  
   </style>
 </html>
