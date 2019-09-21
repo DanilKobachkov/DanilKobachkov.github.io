@@ -1,6 +1,6 @@
 body
 {
-   background:"strelka.jpg";
+   background:url(strelka.jpg);
    background-repeat:no-repeat;
 }
 .white
