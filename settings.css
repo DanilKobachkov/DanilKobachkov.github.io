@@ -1,12 +1,15 @@
 .one
 {
   background-color: yellow;
+  color:red;
 }
 .two
 {
   background-color: red;
+  color: green;
 }
 .three
 {
   background-color: blue;
+  color:white;
 }
