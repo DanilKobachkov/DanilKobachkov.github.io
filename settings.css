@@ -2,16 +2,16 @@
 {
   background-color: yellow;
   color:red;
-  font: Geneva, sans-serif;  
+  font: Arial;  
 }
 .two
 {
   background-color: red;
   color: green; 
-  font: Helvetica, sans-serif;
+  font: Helvetica;
 .three
 {
   background-color: blue;
   color:white;
-  font: Noto Sans, sans-serif;
+  font-famaly: Noto Sans;
 }
