@@ -1,7 +1,7 @@
 .one
 {
   background-color: yellow;
-  color:red;
+  color: red;
   font: Arial;  
 }
 .two
@@ -12,6 +12,6 @@
 .three
 {
   background-color: blue;
-  color:white;
-  font-famaly: Gill Sans;
+  color: white;
+  font-famaly: Verdana;
 }
