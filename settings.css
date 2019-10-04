@@ -2,7 +2,8 @@
 {
   background-color: yellow;
   color: red;
-  font: Arial;  
+  font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+  font-style: italic; /
 }
 .two
 {
