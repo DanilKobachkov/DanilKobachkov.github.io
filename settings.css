@@ -2,17 +2,16 @@
 {
   background-color: yellow;
   color:red;
-  font: 12pt Arial;  
+   font-family: Geneva, sans-serif;  
 }
 .two
 {
   background-color: red;
   color: green; 
-  font: 24pt sans-serif;  
-}
+   font-family: Helvetica, sans-serif;
 .three
 {
   background-color: blue;
   color:white;
-  font: 30pt sans-serif;  
+   font-family: Arial, sans-serif;
 }
