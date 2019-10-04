@@ -2,7 +2,7 @@
 {
   background-color: yellow;
   color: red;
-  font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+  font-family: 'Times New Roman', serif; 
   font-style: italic; /
 }
 .two
@@ -12,7 +12,7 @@
   font: Helvetica;
 .three
 {
-  background-color: blue;
+  background-color: ;
   color: white;
   font-famaly: Verdana;
 }
