@@ -4,16 +4,25 @@
   color: red;
   font-family: Times, serif; 
   font-style: italic; 
+  font-size: 15pt;
+  margin: 15px;
+  line-height: 0.9em;
 }
 .two
 {
   background-color: red;
   color: green; 
   font: Impact, fantasy;
+  font-style: italic;
+  font-size: 20pt;
+  margin: 30px;
 }
 .tri
 {
   background-color: blue;
   color: white;
-  font-famaly: Trattatello, fantasy
+  font-famaly: Trattatello, fantasy;
+  font-style: italic;
+  font-size: 25pt;
+  margin: 45px;
 }
