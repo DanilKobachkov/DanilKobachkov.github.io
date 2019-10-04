@@ -9,10 +9,10 @@
 {
   background-color: red;
   color: green; 
-  font: Helvetica;
+  font: 'Helvetica', serif;
 .three
 {
   background-color: orange;
   color: white;
-  font-famaly: Verdana;
+  font-famaly: 'Verdana', serif;
 }
