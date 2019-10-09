@@ -1,1 +1,11 @@
-
+body
+{
+   background:black;
+   background-repeat:no-repeat;
+   color:white;
+   font-size: 40px;
+}
+.img
+{
+origin:center;
+}
