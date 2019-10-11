@@ -1,6 +1,6 @@
 body
 {
-background-color: FireBrick;
+background-color: OrangeRed;
 }
 .link1
 {
@@ -22,7 +22,7 @@ float: left;
 }
 .style
 {
-    background-color: Goldenrod;
+    background-color: Maroon;
     border: 8px #00BFFF;
     width: 30%;
 }
