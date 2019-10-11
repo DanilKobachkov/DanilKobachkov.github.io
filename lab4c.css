@@ -41,3 +41,19 @@ float: left;
     text-align: center;
     color: ;
 }
+.stealth2 
+{
+    display: none;
+}
+.stealth2.target
+{
+    display: block;
+}
+.style2
+{
+    background-color: #eed774;
+    border: 5px #772f12 solid;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin: auto;
