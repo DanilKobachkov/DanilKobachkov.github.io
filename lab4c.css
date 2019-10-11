@@ -4,16 +4,19 @@ background-color: Maroon;
 }
 .link1
 {
-text-align: left;
 font-size: 40px;
+margin-left: 5%;
+float: left;
 }
 .link2
  {
-text-align: center;
 font-size: 40px;
+margin-left: 20%;
+float: left;
 }
 .link3
 {
-text-align: right;
 font-size: 40px;
+margin-left: 40%;
+float: left;
 }
