@@ -30,7 +30,7 @@ float: left;
 {
     display: none;
 }
-.stealth 
+.stealth:target 
 {
     display: block;
 }
