@@ -20,3 +20,9 @@ font-size: 40px;
 margin-left: 30%;
 float: left;
 }
+.page_style 
+{
+    background-color: Goldenrod;
+    border: 8px #00BFFF;
+    width: 30%;
+}
