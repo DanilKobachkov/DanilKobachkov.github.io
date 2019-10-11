@@ -20,9 +20,17 @@ font-size: 40px;
 margin-left: 30%;
 float: left;
 }
-.page_style 
+.style
 {
     background-color: Goldenrod;
     border: 8px #00BFFF;
     width: 30%;
+}
+.stealth 
+{
+    display: none;
+}
+.stealth 
+{
+    display: block;
 }
