@@ -45,7 +45,7 @@ float: left;
 {
     display: none;
 }
-.stealth2.target
+.stealth2:target
 {
     display: block;
 }
