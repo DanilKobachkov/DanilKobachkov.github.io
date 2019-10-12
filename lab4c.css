@@ -65,7 +65,8 @@ float: left;
 }
 .krasn
  {
-  background-color: red;
+  bgcolor: red;
+
  }
 .sini
  {
