@@ -63,4 +63,24 @@ float: left;
     text-align: center;
     color: ;
 }
-
+.style3
+ {
+    background-color: Maroon;
+    border: 8px #00BFFF;
+    width: 30%;
+}
+ .stealth3 
+{
+    display: none;
+}
+.stealth3:target
+{
+    display: block;
+}
+ .style3
+{
+    background-color: Maroon;
+    border: 5px;
+    text-align: center;
+    margin-left: 60%;
+ }
