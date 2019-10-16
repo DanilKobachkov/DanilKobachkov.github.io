@@ -11,20 +11,21 @@ float: left;
 .link2
  {
 font-size: 40px;
-margin-left: 30%;
+margin-left: 28%;
 float: left;
 }
 .link3
 {
 font-size: 40px;
-margin-left: 30%;
-float: right;
+margin-left: 28%;
+float: left;
 }
 .style
 {
     background-color: Maroon;
-    border: 8px #00BFFF;
+    border: 8px #772f12 solid;
     width: 30%;
+    
 }
 .stealth 
 {
@@ -33,6 +34,7 @@ float: right;
 .stealth:target 
 {
     display: block;
+   
 }
 .size
 {
@@ -47,41 +49,28 @@ float: right;
 }
 .stealth2:target
 {
-    display: block;
+  display: block; 
 }
 .style2
 {
     background-color: Maroon;
-    border: 5px;
+    border: 8px #772f12 solid;
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
+}
  .size2
 {
     font-family: Noto Sans, sans-serif;	
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
     color: ;
 }
- .stealth3 
-{
-    display: none;
-}
-.stealth3:target
-{
-    display: block;
-}
- .style3
+.style3
 {
     background-color: Maroon;
-    border: 5px;
+    border: 8px #772f12 solid;
     text-align: center;
-    margin-left: 50%;
- }
-.size3
-{
-    font-family: Noto Sans, sans-serif;	
-    font-size: 50px;
-    text-align: center;
-    color: ;
+    margin-left: 70%;
+    
 }
