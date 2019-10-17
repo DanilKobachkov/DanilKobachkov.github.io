@@ -78,17 +78,25 @@ float: left;
 {
     font-family: Gill Sans, sans-serif;
     color: white; 
-    font-style: italic; 
+    font-style: italic;
+    font-weight: 600;
 }
 .call1:first-line
 {
     font-family: Georgia, serif;
     color: black; 
     font-style: italic; 
+    font-weight: 600;
 }
 .callfirst:first-line
 {
     font-family: Georgia, serif;
     color: yellow; 
+    font-style: italic; 
+}
+.calllast:first-line
+{
+    font-family: Georgia, serif;
+    color:blue; 
     font-style: italic; 
 }
