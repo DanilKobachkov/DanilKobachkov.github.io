@@ -20,12 +20,7 @@ font-size: 40px;
 margin-left: 28%;
 float: left;
 }
-.style:
-{
-    background-color: Moroon;
-    border: 8px #772f12 solid;
-    width: 30%;
-}
+
 .stealth 
 {
     display: none;
@@ -34,6 +29,12 @@ float: left;
 {
     display: block;
    
+}
+.style
+{
+    background-color: Moroon;
+    border: 8px #772f12 solid;
+    width: 30%;
 }
 .size
 {
