@@ -74,4 +74,7 @@ float: left;
     margin-left: 70%;
     
 }
-
+.call:first-line {
+    color: red; /* Красный цвет текста */
+    font-style: italic; /* Курсивное начертание */
+   }
