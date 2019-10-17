@@ -75,6 +75,7 @@ float: left;
     
 }
 .call:first-line {
-    color: red; /* Красный цвет текста */
-    font-style: italic; /* Курсивное начертание */
+    font-family: Gill Sans, sans-serif;
+    color: white; 
+    font-style: italic; 
    }
