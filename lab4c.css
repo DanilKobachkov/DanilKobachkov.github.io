@@ -20,9 +20,9 @@ font-size: 40px;
 margin-left: 28%;
 float: left;
 }
-.style:first-letter
+.style:
 {
-    background-color: white;
+    background-color: Moroon;
     border: 8px #772f12 solid;
     width: 30%;
     
