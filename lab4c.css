@@ -74,8 +74,15 @@ float: left;
     margin-left: 70%;
     
 }
-.call:first-line {
+.call:first-line 
+{
     font-family: Gill Sans, sans-serif;
     color: white; 
     font-style: italic; 
-   }
+}
+.call1:first-line
+{
+    font-family: Georgia, serif;
+    color: white; 
+    font-style: italic; 
+}
