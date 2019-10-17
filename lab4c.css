@@ -83,6 +83,12 @@ float: left;
 .call1:first-line
 {
     font-family: Georgia, serif;
+    color: black; 
+    font-style: italic; 
+}
+.callfirst:first-line
+{
+    font-family: Georgia, serif;
     color: yellow; 
     font-style: italic; 
 }
