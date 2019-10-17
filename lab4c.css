@@ -20,7 +20,7 @@ font-size: 40px;
 margin-left: 28%;
 float: left;
 }
-.style
+.style:first-letter
 {
     background-color: white;
     border: 8px #772f12 solid;
@@ -100,3 +100,8 @@ float: left;
     color:red; 
     font-style: italic; 
 }
+ p:first-letter {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%; 
+    color: white;
+   }
