@@ -41,7 +41,7 @@ float: left;
     font-family: Noto Sans, sans-serif;	
     font-size: 50px;
     text-align: center;
-    color: ;
+    color: blue ;
 }
 .stealth2 
 {
@@ -74,3 +74,8 @@ float: left;
     margin-left: 70%;
     
 }
+p:first-letter {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%; 
+    color: blue; 
+   }
