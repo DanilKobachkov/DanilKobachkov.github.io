@@ -25,7 +25,6 @@ float: left;
     background-color: Moroon;
     border: 8px #772f12 solid;
     width: 30%;
-    
 }
 .stealth 
 {
@@ -100,8 +99,4 @@ float: left;
     color:red; 
     font-style: italic; 
 }
- p:first-letter {
-    font-family: 'Times New Roman', Times, serif; 
-    font-size: 150%; 
-    color: white;
-   }
+
