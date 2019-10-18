@@ -21,7 +21,13 @@ font-size: 40px;
 margin-left: 28%;
 float: left;
 }
-
+ .size
+{
+    font-family: Noto Sans, sans-serif;	
+    font-size: 20px;
+    text-align: center;
+    color: ;
+}
 .stealth 
 {
     display: none;
