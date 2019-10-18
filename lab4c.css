@@ -70,3 +70,10 @@ body
     background: black;
     color: white;
 } 
+ tr:nth-child(6) 
+{   
+    font-family: Andale Mono, monospace;
+    font-style: oblique;
+    background: OrangeRed;
+    color: black;
+} 
