@@ -24,22 +24,7 @@ body
     text-align: center;
     color: ;
 }
-.stealth 
-{
-    display: none;
-}
-.stealth:target 
-{
-    display: block;
-}
-.stealth2 
-{
-    display: none;
-}
-.stealth2:target
-{
-  display: block; 
-}
+
 
  .size2
 {
@@ -56,30 +41,3 @@ body
     margin-left: 30%;
     margin-top: -5%;
 }
-.call:first-line 
-{
-    font-family: Gill Sans, sans-serif;
-    color: white; 
-    font-style: italic;
-    font-weight: 600;
-}
-.call1:first-line
-{
-    font-family: Georgia, serif;
-    color: black; 
-    font-style: italic; 
-    font-weight: 600;
-}
-.callfirst:first-line
-{
-    font-family: Georgia, serif;
-    color: yellow; 
-    font-style: italic; 
-}
-.calllast:first-line
-{
-    font-family: Georgia, serif;
-    color:red; 
-    font-style: italic; 
-}
-
