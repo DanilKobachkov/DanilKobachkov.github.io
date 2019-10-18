@@ -49,8 +49,13 @@ body
     margin-left: 30%;
     margin-top: -7%;
 }
- p:first-letter {
+ p:first-letter
+{
     font-family: Noto Sans, sans-serif;
     font-size: 150%; 
     color: white;
+}
+  h1:first-line {
+    color: red; 
+    font-style: italic; 
    }
