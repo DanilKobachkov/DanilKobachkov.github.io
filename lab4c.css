@@ -58,5 +58,11 @@ body
 }
  tr:nth-child(2n) 
 {
-    background: #f0f0f0;
+    background: white;
+    color: black;
+} 
+ tr:nth-child(2n+1) 
+{
+    background: black;
+    color: white;
 } 
