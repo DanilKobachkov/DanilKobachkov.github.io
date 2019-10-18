@@ -6,19 +6,20 @@ background-color: OrangeRed;
 {
 font-size: 40px;
 margin-left:10%;
+float: left;
 
 }
 .link2
  {
 font-size: 40px;
 margin-left: 28%;
-
+float: left;
 }
 .link3
 {
 font-size: 40px;
 margin-left: 28%;
-
+float: left;
 }
 
 .stealth 
