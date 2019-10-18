@@ -21,7 +21,13 @@ font-size: 40px;
 margin-left: 28%;
 float: left;
 }
-
+.size
+{
+    font-family: Noto Sans, sans-serif;	
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
 .stealth 
 {
     display: none;
@@ -29,20 +35,12 @@ float: left;
 .stealth:target 
 {
     display: block;
-   
 }
 .style2
 {
     background-color: Moroon;
     border: 8px #772f12 solid;
     width: 30%;
-}
-.size
-{
-    font-family: Noto Sans, sans-serif;	
-    font-size: 50px;
-    text-align: center;
-    color: black;
 }
 .stealth2 
 {
@@ -58,7 +56,7 @@ float: left;
     border: 8px #772f12 solid;
     text-align: center;
     margin-left: 30%;
-    margin-right: 30%;
+    margin-right: 20%;
 }
  .size2
 {
