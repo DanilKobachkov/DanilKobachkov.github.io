@@ -40,14 +40,7 @@ body
 {
   display: block; 
 }
-.style2
-{
-    background-color: Maroon;
-    border: 8px #772f12 solid;
-    text-align: center;
-    margin-left:30%;
-    margin-right: 30%;
-}
+
  .size2
 {
     font-family: Noto Sans, sans-serif;	
