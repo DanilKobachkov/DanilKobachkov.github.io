@@ -58,11 +58,13 @@ body
 }
  tr:nth-child(2n) 
 {
+    font-family: Georgia, serif;
     background: white;
     color: black;
 } 
  tr:nth-child(2n+1) 
-{
+{   
+    font-family: Andale Mono, monospace;
     background: black;
     color: white;
 } 
