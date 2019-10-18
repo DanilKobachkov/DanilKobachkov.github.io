@@ -60,7 +60,7 @@ body
     color: red; 
     font-style: italic; 
 }
- title:nth-child
+ table:nth-child
 {
  tr:nth-child(2n) {
  background: #f0f0f0;
