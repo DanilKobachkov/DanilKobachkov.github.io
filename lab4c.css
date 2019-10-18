@@ -34,12 +34,7 @@ body
 }
 
 
- .size2:nth-child
-{
- tr:nth-child(2n) {
- background: #f0f0f0;
- font-family: Andale Mono, monospace;
-}
+ .size2
 {
     font-family: Noto Sans, sans-serif;	
     font-size: 20px;
