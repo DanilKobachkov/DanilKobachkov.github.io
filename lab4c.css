@@ -71,7 +71,7 @@ body
 } 
  tr:nth-child(6) 
 {   
-    font-family: Andale Mono, monospace;
+    font-family: Arial, sans-serif;
     font-style: oblique;
     background: OrangeRed;
     color: black;
