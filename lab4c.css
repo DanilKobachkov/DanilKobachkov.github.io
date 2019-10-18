@@ -21,13 +21,7 @@ font-size: 40px;
 margin-left: 28%;
 float: left;
 }
-.size
-{
-    font-family: Noto Sans, sans-serif;	
-    font-size: 50px;
-    text-align: center;
-    color: black;
-}
+
 .stealth 
 {
     display: none;
@@ -35,12 +29,6 @@ float: left;
 .stealth:target 
 {
     display: block;
-}
-.style2
-{
-    background-color: Moroon;
-    border: 8px #772f12 solid;
-    width: 40%;
 }
 .stealth2 
 {
