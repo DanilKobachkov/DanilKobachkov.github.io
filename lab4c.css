@@ -50,7 +50,7 @@ body
     margin-top: -7%;
 }
  p:first-letter {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Noto Sans, sans-serif;
     font-size: 200%; 
     color: red;
    }
