@@ -1,25 +1,21 @@
 body
 {
-background-color: OrangeRed;
+ background-color: OrangeRed;
 }
 .link1
 {
-font-size: 40px;
-margin-left:10%;
-
-
+ font-size: 40px;
+ margin-left:10%;
 }
 .link2
  {
-font-size: 40px;
-margin-left: 28%;
-
+  font-size: 40px;
+  margin-left:10%;
 }
 .link3
 {
   font-size: 40px;
-  margin-left: 28%;
-  float: left;
+  margin-left:10%;
 }
  .size
 {
