@@ -59,12 +59,14 @@ body
  tr:nth-child(2n) 
 {
     font-family: Georgia, serif;
+    font-style: italic;
     background: white;
     color: black;
 } 
  tr:nth-child(2n+1) 
 {   
     font-family: Andale Mono, monospace;
+    font-style: oblique;
     background: black;
     color: white;
 } 
