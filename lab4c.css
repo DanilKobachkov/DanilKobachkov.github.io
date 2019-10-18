@@ -55,7 +55,14 @@ body
     font-size: 150%; 
     color: white;
 }
-  h1:first-line {
+  h1:first-line
+{
     color: red; 
     font-style: italic; 
-   }
+}
+ title:nth-child
+{
+ tr:nth-child(2n) {
+ background: #f0f0f0;
+ font-family: Andale Mono, monospace;
+}
