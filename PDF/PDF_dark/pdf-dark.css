@@ -1,0 +1,115 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    background-color: #2A2A2A;
+    color: #FFF9F9;
+}
+
+h3{
+    font-weight: normal;
+    margin-left: 40px;
+}
+
+p{
+    text-indent: 30px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 3px solid #FFF9F9;
+}
+
+a, a:link, a:visited, a:hover{
+    text-decoration: none;
+    color: #FFF9F9;
+}
+
+.center-box{
+    box-sizing: border-box;
+    width: calc(100% - 940px);
+    height: auto;
+    margin: 50px;
+    margin-left: 420px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.content-box{
+    box-sizing: border-box;
+    margin-left: 100px;
+    height: 100%;
+    width: calc(100% - 200px);
+}
+
+.first-box{
+    box-sizing: border-box;
+    background-color: #464B83;
+    border: 1px solid #FFFFFF;
+    width: calc(100% - 10px);
+    margin: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.first-box ol ul li{
+    list-style-type: square;
+}
+
+.header-img{
+    float: left;
+    margin-right: 20px;
+}
+
+.second-box{
+    box-sizing: border-box;
+    background-color: #464B83;
+    border: 1px solid #FFFFFF;
+    width: calc(100% - 10px);
+    margin: 5px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.struct-img {
+    margin: 0 auto;
+    width: 589px
+}
+
+.paragraph-center{
+    text-align: center;
+}
+
+.second-box p{
+    text-indent: 0px;
+}
+
+.bold{
+    font-weight: bold;
+    display: inline;
+}
+
+.boow{
+    border: 1px solid #FFFFFF;
+    background-color: #000000;
+}
+
+.red{
+    color: #FF5500;
+}
+
+.green{
+    color: #E0E0E0;
+}
+
+.blue{
+    color: #FF0049;
+}
+
+.purple{
+    color: #6CFF00;
+}
