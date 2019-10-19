@@ -35,8 +35,8 @@ body
 {
     font-family: Noto Sans, sans-serif;	
     font-size: 20px;
-    border: 3 ;
-    alight:center;
+    margin-left:30%;
+    border:3px solid braun;
  }
 .style
 {
