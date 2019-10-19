@@ -70,10 +70,10 @@ body
     background: black;
     color: white;
 } 
- tr:nth-child(6) 
+ tr:last-child
 {   
     font-family: Arial, sans-serif;
     font-style: oblique;
     background: OrangeRed;
     color: black;
-} 
+}
