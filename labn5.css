@@ -2,11 +2,11 @@ body
 {    background: url(background5.png);
      border: 3px solid blue;
      font-family: Verdana, Arial, Helvetica, sans-serif; 
-     font-size: 100pt;
+     font-size: 10pt;
      color: white;
 }
 h1
 {
     font-family: 'Times New Roman', Times, serif; 
-    font-size: 100pt;
+    font-size: 18pt;
 }
