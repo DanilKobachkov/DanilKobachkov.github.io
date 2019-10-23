@@ -1,12 +1,12 @@
 body
 {    background: url(background5.png);
-     border: 1px solid red;
-     padding: 10px;
+     border: 3px solid blue;
      font-family: Verdana, Arial, Helvetica, sans-serif; 
-     font-size: 11pt;
+     font-size: 100pt;
+     color: white;
 }
 h1
 {
     font-family: 'Times New Roman', Times, serif; 
-    font-size: 25pt;
+    font-size: 100pt;
 }
