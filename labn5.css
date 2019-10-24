@@ -1,12 +1,16 @@
 body
-{    background: url(background5.png);
+{  
+     background: url(background5.png);
+}
+h1
+{
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 28pt;
+}
+p
+{
      border: 3px solid red;
      font-family: Verdana, Arial, Helvetica, sans-serif; 
      font-size: 20pt;
      color: white;
-}
-p
-{
-    font-family: 'Times New Roman', Times, serif; 
-    font-size: 28pt;
 }
