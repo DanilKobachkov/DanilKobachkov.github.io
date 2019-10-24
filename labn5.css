@@ -2,12 +2,12 @@ body
 {  
      background: url(background5.png);
 }
-form
+h1
 {
     font-family: 'Times New Roman', Times, serif; 
     font-size: 28pt;
 }
-ol
+form
 {
      border: 3px solid red;
      font-family: Verdana, Arial, Helvetica, sans-serif; 
