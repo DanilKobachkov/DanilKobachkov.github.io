@@ -1,5 +1,5 @@
  <script>
-        let array_of_correct_answers = ['Coleoptera', 'Жук-титан', 'Cockroach', 'The Beetles', 'Hawker', 'Lumberjack titanium', 'Carnivorous', 'Omnivores', 'Numerous', 'Bronze', 'Плавунец'];
+        let array_of_correct_answers = ['Nirvana', 'Led Zeppelin', 'Queen', 'The Beetles', 'Gordon Sumner"', 'The four horsemen', 'Unforgiven 2', 'Axl Rose', 'Foo Fighters', 'Bronze', 'Плавунец'];
         let numner_questions = 10;
         let a = [];
         function proverka(j = 0) {
