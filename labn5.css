@@ -23,4 +23,15 @@ div
     font-size: 28pt;
     color:white;
 }
+ ol{
+	counter-reset: myCounter;
+}
 
+ol li{
+	list-style: none;
+}
+
+ol li:before{
+	counter-increment: myCounter;
+	content: "Вопрос № " counters(myCounter, ".") ": ";
+}
