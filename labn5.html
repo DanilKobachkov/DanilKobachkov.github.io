@@ -5,60 +5,98 @@
   <link rel="icon" href="logo.jpg" type="images/jpg"> 
   <title>Лабораторная работа №5</title>    
  </head>
-   <body>
-     <script src="labn5j.js"></script>
+  <body>
+     <script>
+    function CheckForm(FormID) {
+        var MyForm = document.getElementById(FormID);
+        var text = "";
+        var i;
+       for (i = 0; i < MyForm.length; i++) {
+            if (MyForm.elements[i].type=="text")
+            {
+                return MyForm.elements[i].value;
+            }
+            else {
+                if (MyForm.elements[i].checked) {
+                    text += i;
+                }
+            }
+       }
+       return text;
+    }
+
+    function CheckAllAnswers() {
+        let array_of_correct_answers = ['1', '0', '2', 'Курт Кобейн', '0', 'Дэвид Боуи', '14', '0', '1', '2'];
+        var ball=0;
+
+        for (let i=1; i<=10; ++i )
+        {
+            let FormID = "q"+i;
+
+            let Forma = CheckForm(FormID);
+            if (Forma== array_of_correct_answers[i-1])
+            {
+                ball++;
+            }
+        }
+        alert ("Результаты ответов =" +ball);
+    }
+
+
+</script>
      <h1>Тест</h1>
      <div>
      <ol>
-     <li><b>Кто выпустил в девяносто первом году музыкальный альбом Nevermind?</b></li>
-     <p><input type="radio" name="0" value="The rolling stones">The rolling stones<br>
-     <input id = "Nirvana" type="radio" name="Nirvana" value="1">Nirvana<br>
-     <input type="radio" name="0" value="Muse">Muse</p>
-   
-     <li><b>Какая группа отказавшись от выпуска синглов, заложила основу понятия «альбомный рок»?</b></li>
-     <p><input id = "Led Zeppelin" type="radio" name="1" value="Led Zeppelin">Led Zeppelin<br>
-     <input type="radio" name="1" value="The Doors">The Doors<br>
-     <input type="radio" name="1" value="The Beatles">The Beatles</p>
- 
-     <li><b>Какой группой была выпущена песня под названием "Radio Ga Ga"?</b></li>
-     <p><input type="radio" name="2" value="The Police">The Police<br>
-     <input type="radio" name="2" value="Guns n' roses">Guns n' roses<br>
-     <input id = "Queen" type="radio" name="2" value="Queen">Queen</p>
- 
-     <li><b>Как звали cолиста группы Nirvana?</b></li>  
-     <p><input id = "Kurt"  type="text" name="3"></p>
-  
-     <li><b>Как зовут вокалиста группы The Police?</b></li>
-     <p><input id = "Gordon Sumner" type="radio" name="4" value="Gordon Sumner">Гордон Самнер (Стинг)<br>
-     <input type="radio" name="4" value="Robert Plant">Роберт Плант<br>
-     <input type="radio" name="4" value="Samuel Hagar">Сэмми Хагар</p>
- 
-     <li><b>Какого певца называли «хамелеоном рок-музыки»?</b></li> 
-     <p><input id = "David" type="text" name="5"></p>
- 
-     <li><b>Какие песни являются песнями группы Mettalica?</b></li>
-     <p><input type="checkbox" name="6" value="Kashmir">Kashmir<br>
-     <input id = "The four horsemen" type="checkbox" name="6" value="The four horsemen">The four horsemen<br>
-     <input type="checkbox" name="6" value="Dream On">Dream On<br>
-     <input type="checkbox" name="6" value="Welcome to the jungle">Welcome to the jungle<br>
-     <input id = "Unforgiven 2" type="checkbox" name="6" value="Unforgiven 2">Unforgiven 2</p>
- 
-     <li><b>Как зовут человека который был вокалистом групп Guns n' roses и AC/DC?</b></li>
-     <p><input id = "Axl Rose" type="radio" name="7" value="Axl Rose">Эксл Роуз<br>
-     <input type="radio" name="7" value="David Grohl">Дэвид Грол<br>
-     <input type="radio" name="7" value="Morten Harket">Мортен Харкет</p>
- 
-     <li><b>Какая рок-н-ролльная композиция описывается цитатой: «Видимо, вы еще не готовы к этому, но вашим детям понравится…»?</b></li>
-     <p><input type="radio" name="8" value="Thunderstrunk">AC/DC — Thunderstruck<br>
-     <input id = "Chuck" type="radio" name="8" value="JBGD">Chuck Berry — Johnny B-Goode<br>
-     <input type="radio" name="8" value="Paradise city">Guns N' Roses — Paradise city</p>
- 
-     <li><b>Название какой группы позаимствовано из сленга американских лётчиков Второй мировой войны, которые называли так неопознанные летающие объекты?</b></li>
-     <p><input type="radio" name="9" value="AC/DC">AC/DC<br>
-     <input id = "Stones " type="radio" name="9" value="The Rolling Stones">The Rolling Stones<br>
-     <input type="radio" name="9" value="Foo Fighters">Foo Fighters</p>
+     <form id="q1"><p><b>Кто выпустил в девяносто первом году музыкальный альбом Nevermind?</b></p>
+     <input type="radio" name="answer1" value="0">The rolling stones<br>
+     <input id = "Nirvana" type="radio" name="answer1" value="1">Nirvana<br>
+     <input type="radio" name="answer1" value="0">Queen
+     </form>
+     <form id="q2"><p><b>Какая группа отказавшись от выпуска синглов, заложила основу понятия «альбомный рок»?</b></p>
+     <input id = "Led Zeppelin" type="radio" name="answer2" value="Led Zeppelin">Led Zeppelin<br>
+     <input type="radio" name="answer2" value="The Doors">The Doors<br>
+     <input type="radio" name="answer2" value="The Beatles">The Beatles<br>
+     </form>
+     <form id="q3"><p><b>Какой группой была выпущена песня под названием "Radio Ga Ga"?</b></p>
+     <input type="radio" name="answer3" value="The Police">The Police<br>
+     <input type="radio" name="answer3" value="Guns n' roses">Guns n' roses<br>
+     <input id = "Queen" type="radio" name="answer3" value="Queen">Queen
+     </form>
+     <form id="q4"><p><b>Как звали cолиста группы Nirvana?</b></p>  
+     <input id = "Kurt"  type="text" name="answer4">
+     </form>
+     <form id="q5"><p><b>Как зовут вокалиста группы The Police?</b></p>
+     <input id = "Gordon Sumner" type="radio" name="answer5" value="Gordon Sumner">Гордон Самнер (Стинг)<br>
+     <input type="radio" name="answer5" value="Robert Plant">Роберт Плант<br>
+     <input type="radio" name="answer5" value="Samuel Hagar">Сэмми Хагар
+     </form>
+     <form id="q6"><p><b>Какого певца называли «хамелеоном рок-музыки»?</b></p> 
+     <input id = "David" type="text" name="answer6">
+     </form>
+     <form id="q7"><p><b>Какие песни являются песнями группы Mettalica?</b></p>
+     <input type="checkbox" name="answer1" value="Kashmir">Kashmir<br>
+     <input id = "The four horsemen" type="checkbox" name="answer7" value="The four horsemen">The four horsemen<br>
+     <input type="checkbox" name="answer7" value="Dream On">Dream On<br>
+     <input type="checkbox" name="answer7" value="Welcome to the jungle">Welcome to the jungle<br>
+     <input id = "Unforgiven 2" type="checkbox" name="answer7" value="Unforgiven 2">Unforgiven 2
+     </form>
+     <form id="q8"><p><b>Как зовут человека который был вокалистом групп Guns n' roses и AC/DC?</b></p>
+     <p><input id = "Axl Rose" type="radio" name="answer8" value="Axl Rose">Эксл Роуз<br>
+     <input type="radio" name="answer8" value="David Grohl">Дэвид Грол<br>
+     <input type="radio" name="answer8" value="Morten Harket">Мортен Харкет
+     </form>
+     <form id="q9"><p><b>Какая рок-н-ролльная композиция описывается цитатой: «Видимо, вы еще не готовы к этому, но вашим детям понравится…»?</b></p>
+     <p><input type="radio" name="answer9" value="Thunderstrunk">AC/DC — Thunderstruck<br>
+     <input id = "Chuck" type="radio" name="answer9" value="JBGD">Chuck Berry — Johnny B-Goode<br>
+     <input type="radio" name="answer9" value="Paradise city">Guns N' Roses — Paradise city
+     </form>
+     <form id="q10"><p><b>Название какой группы позаимствовано из сленга американских лётчиков Второй мировой войны, которые называли так неопознанные летающие объекты?</b></p>
+     <p><input type="radio" name="answer10" value="AC/DC">AC/DC<br>
+     <input id = "Stones " type="radio" name="answer10" value="The Rolling Stones">The Rolling Stones<br>
+     <input type="radio" name="answer10" value="Foo Fighters">Foo Fighters
      </div>
-     <input type="button" value="Посмотреть результат" onclick="cout()">
-     <p><a href="Тест по теме.pdf" class="test">Ответы на вопросы</a><p>
-   </body>
+     <button onclick=" CheckAllAnswers()">Результат</button>
+     <p><a href="Тест по теме.pdf" class="test">Ответы на вопросы</a></p>
+	
+ </body>
 </html>
