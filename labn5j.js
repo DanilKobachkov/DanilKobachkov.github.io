@@ -1,4 +1,4 @@
-        let array_of_correct_answers = ['Nirvana', 'Led Zeppelin', 'Queen', 'The Beetles', 'Gordon Sumner"', 'The four horsemen', 'Unforgiven 2', 'Axl Rose', 'Foo Fighters', 'Курт Кобейн', 'Дэвид Боуи'];
+        let array_of_correct_answers = ['2', '1', '3', 'Курт Кобейн', 'Gordon Sumner', 'The four horsemen', 'Unforgiven 2', 'Axl Rose', 'Foo Fighters', 'Курт Кобейн', 'Дэвид Боуи'];
         let numner_questions = 10;
         let a = [];
         function proverka(j = 0) {
