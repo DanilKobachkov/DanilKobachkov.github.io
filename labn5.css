@@ -8,16 +8,19 @@ h1
     font-size: 28pt;
     color:white;
 }
-form
+div
 {
      border: 3px solid red;
      font-family: Verdana, Arial, Helvetica, sans-serif; 
      font-size: 20pt;
      color: white;
+	 padding-left: 50px;
 }
+
 .test
 {
     font-family: 'Times New Roman', Times, serif; 
     font-size: 28pt;
     color:white;
 }
+
