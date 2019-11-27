@@ -19,3 +19,7 @@ body
  background: green;
  font-family: Noto Sans, sans-serif;	
 }
+h1
+{
+ font-size: 100px
+}
