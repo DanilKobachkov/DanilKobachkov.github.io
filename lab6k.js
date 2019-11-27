@@ -5,6 +5,6 @@ window.onload = function(){
   document.getElementById('game').onclick= function(event){
     console.log(event);
     if (event.target.className == 'block')
-      this.innerHTML = '0';
+      event.target.innerHTML = '0';
   }
 }
