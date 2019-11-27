@@ -19,7 +19,7 @@ window.onload = function(){
   function checkWinner(){
     var allblock = document.getElementsByClassName('block');
     //console.log(allclock);
-    if (allblock[0].innerHTML=='X' && allblock[1].innerHTML=='X' && allblock[2].innerHTNL=='X') alert('Победили крестики');
+    if (allblock[0].innerHTML=='x' && allblock[1].innerHTML=='x' && allblock[2].innerHTNL=='x') alert('Победили крестики');
     
     }
 }
