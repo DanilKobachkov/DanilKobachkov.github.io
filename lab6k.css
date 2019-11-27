@@ -24,3 +24,6 @@ h1
  font-size: 100px
   color: white;
 }
+td{
+  width: 100px;
+}
