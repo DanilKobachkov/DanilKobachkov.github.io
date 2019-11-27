@@ -6,20 +6,21 @@ window.onload = function(){
   
   document.getElementById('game').onclick= function(event){
     console.log(event);
-    if (event.target.className == 'block')
+    if (event.target.className == 'block'){
       if (hod%2==0){
        event.target.innerHTML = 'x';
       }
     else{
         event.target.innerHTML = 'O';
     }
+   }
     hod++;
     checkWinner();
   }
   function checkWinner(){
     var allblock = document.getElementsByClassName('block');
     //console.log(allclock);
-    if (allblock[0].innerHTML=='x' && allblock[1].innerHTML=='x' && allblock[2].innerHTNL=='x') alert('Победили крестики');
+    if (allblock[0].innerHTML=='x' && allblock[1].innerHTML=='x' && allblock[2].innerHTML=='x') alert('Победили крестики');
     
     }
 }
