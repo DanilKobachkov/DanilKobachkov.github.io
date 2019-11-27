@@ -8,8 +8,7 @@ body
 {
  background: url(fon.png)
 }
-#game
-{
+#game{ 
  width:200px;
  height:200px;
  background: red;
