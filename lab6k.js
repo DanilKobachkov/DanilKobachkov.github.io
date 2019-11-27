@@ -8,7 +8,7 @@ window.onload = function(){
     console.log(event);
     if (event.target.className == 'block')
       if (hod%2==0){
-       event.target.innerHTML = 'X';
+       event.target.innerHTML = 'x';
       }
     else{
         event.target.innerHTML = 'O';
