@@ -14,8 +14,9 @@
  font-size: 80px;
  text-transform: uppercase;
 }
-head{
-background-color:white;
-bgcolor: green;
-font-family: 'Times New Roman', Times, serif;
+body
+{
+ background-color: OrangeRed;
+ font-family: Noto Sans, sans-serif;	
+ bgcolor: green;
 }
