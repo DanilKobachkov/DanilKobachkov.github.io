@@ -1,5 +1,4 @@
-p
-{
+p{
  font-family: 'Times New Roman', Times, serif;
  font-size: 50pt;
  color: white;
@@ -8,4 +7,11 @@ p
  width:200px;
  height:200px;
  background: red;
+}
+.block{
+ width:70px;
+ height:70px;
+ float:left;
+ border: 1px solid black;
+ box-sizing: border-box;
 }
