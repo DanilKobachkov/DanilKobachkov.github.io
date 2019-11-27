@@ -13,6 +13,6 @@ window.onload = function(){
     else{
         event.target.innerHTML = 'O';
     }
-    hod++
+    hod++;
   }
 }
