@@ -4,10 +4,6 @@ p
  font-size: 50pt;
  color: white;
 }
-body
-{
- background: url(fon.png)
-}
 #game{ 
  width:200px;
  height:200px;
