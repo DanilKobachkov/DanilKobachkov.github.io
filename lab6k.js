@@ -11,7 +11,7 @@ window.onload = function(){
        event.target.innerHTML = 'X';
       }
     else{
-        event.target.innerHTML = '0';
+        event.target.innerHTML = 'O';
     }
     hod++
   }
