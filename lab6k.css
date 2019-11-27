@@ -4,13 +4,13 @@ p{
  color: white;
 }
 #game{ 
- width:200px;
- height:200px;
+ width:150px;
+ height:150px;
  background: red;
 }
 .block{
- width:70px;
- height:70px;
+ width:50px;
+ height:50px;
  float:left;
  border: 1px solid black;
  box-sizing: border-box;
