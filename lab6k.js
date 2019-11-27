@@ -14,5 +14,10 @@ window.onload = function(){
         event.target.innerHTML = 'O';
     }
     hod++;
+    checkWinner();
   }
+  function checkWinner(){
+    var allblock = document.getElementsByClassName('block');
+    console.log(allclock);
+    }
 }
