@@ -17,6 +17,7 @@ window.onload = function(){
     hod++;
     checkWinner();
   }
+  /* 
   function checkWinner(){
     var allblock = document.getElementsByClassName('block');
     //console.log(allclock);
@@ -37,5 +38,5 @@ window.onload = function(){
     if (allblock[0].innerHTML=='0' && allblock[3].innerHTML=='0' && allblock[6].innerHTML=='0') alert('Победили нолики');
     if (allblock[1].innerHTML=='0' && allblock[4].innerHTML=='0' && allblock[7].innerHTML=='0') alert('Победили нолики');
     if (allblock[2].innerHTML=='0' && allblock[5].innerHTML=='0' && allblock[8].innerHTML=='0') alert('Победили нолики');
-    }
+    }*/
 }
