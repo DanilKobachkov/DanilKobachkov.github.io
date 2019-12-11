@@ -1,30 +1,71 @@
-#game{ 
- width:300px;
- height:300px;
- background: red;
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
-.block{
- width:100px;
- height:100px;
- float:left;
- border: 1px solid black;
- box-sizing: border-box;
- line-height:100px;
- text-align: center;
- font-size: 80px;
- text-transform: uppercase;
+table{
+    border-collapse: collapse;
+    margin: auto;  
+    margin-top: 200px;
+    background-color: rgba(255, 255, 255, 0.7);
 }
-body
+body{
+    background-image: url("OrdaVSAlians.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#Cross
 {
- background: green;
- font-family: Noto Sans, sans-serif;	
+    font-size: 100px;
+    color: Lavender;
+    text-align: center;
+    background-color: MidnightBlue;
 }
-h1
+.OrdAlia
 {
- font-size: 100px
-  color: white;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, DarkRed 50%, RoyalBlue 50%);
+    border: 3px solid black;
 }
-td{
-  width: 50px;
-  height: 50px;
+.Width1
+{
+    color: yellow;
+    width: 300px;
+    font-size: 30px;
+}
+.Height1
+{
+    color: black;
+    width: 300px;
+    font-size: 30px;
+}
+input[type="text"]
+{
+    height: 50px;
+    font-size: 30px;
+    width: 80px;
+    text-align: center;
+}
+#Orda,#Alians
+{
+    display: none;
+    font-size: 30px;
+    background-color: coral;
+}
+.Hod
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.heading
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
 }
