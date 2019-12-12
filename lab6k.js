@@ -66,9 +66,9 @@ function CheckWin(row, cell, typeField) {
     let diagonalIncreasing = 1 + ChecDirection(row, cell, typeField, -1, 1) + ChecDirection(row, cell, typeField, 1, -1);
      if (horizont >= WinCriteria || vertical >= WinCriteria || diagonalReducing >= WinCriteria || diagonalIncreasing >= WinCriteria) {
         if (typeField == "2")
-            document.getElementById("Cross").innerHTML = "Победил Альянс";
+            document.getElementById("Cross").innerHTML = "Победили крестики";
         else if (typeField == "1")
-            document.getElementById("Cross").innerHTML = "Победила Орда";
+            document.getElementById("Cross").innerHTML = "Победили нолики";
         document.getElementById("Table1").style.display = "none";
     }
     else if (CheckDrow())
