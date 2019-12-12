@@ -35,7 +35,7 @@ function cellMouseDown(e) {
         }
         else {
             if (this.style.backgroundImage == "") {
-                this.style.backgroundImage = "url(ZnakAlians.png)";
+                this.style.backgroundImage = "url(X.png)";
                 this.cellStatus = "2";
                 document.getElementById("Alians").style.display = "none";
                 document.getElementById("Orda").style.display = "block";
