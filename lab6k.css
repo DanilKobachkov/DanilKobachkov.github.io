@@ -29,7 +29,7 @@ body{
 {
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, DarkRed 50%, RoyalBlue 50%);
+    background: linear-gradient(to right, Red 50%, Blue 50%);
     border: 3px solid white;
 }
 .Width1
