@@ -25,7 +25,7 @@ function cellMouseDown(e) {
     if (e.which == 1) {
         if (hod % 2 == 0) {
             if (this.style.backgroundImage == "") {
-                this.style.backgroundImage = "url(ZnakOrda.png)";
+                this.style.backgroundImage = "url(0.png)";
                 this.cellStatus = "1";
                 document.getElementById("Alians").style.display = "block";
                 document.getElementById("Orda").style.display = "none";
