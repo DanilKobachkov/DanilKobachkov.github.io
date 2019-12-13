@@ -1,20 +1,20 @@
 let hod = 0;
 let WinCriteria = 3;
 function Tablica() {
-    let NotMyTable = document.getElementById("Table1");
-    let nx = document.getElementById("input_width_size").value;
-    let ny = document.getElementById("input_height_size").value;
-    NotMyTable.innerHTML = "";
-    for (let i = 0; i < nx; i++) {
-        let NewLine = document.createElement("tr");
-        for (let j = 0; j < ny; j++) {
-            let NewColumn = document.createElement("td");
-            NewColumn.setAttribute("id", "cell_" + (i + 1) + "_" + (j + 1));
+    let NotMyTable = document.getElementById("Table1"); // id присваиваем Table1
+    let nx = document.getElementById("input_width_size").value; // переменной nx input_width_size
+    let ny = document.getElementById("input_height_size").value; // переменной ny input_height_size
+    NotMyTable.innerHTML = ""; // NotMyTable присваивается пустое значение
+    for (let i = 0; i < nx; i++) { // цикл для создания горизонтали
+        let NewLine = document.createElement("tr");// создание строк
+        for (let j = 0; j < ny; j++) { // цикл создания по вертикали 
+            let NewColumn = document.createElement("td"); // создание столбцов
+            NewColumn.setAttribute("id", "cell_" + (i + 1) + "_" + (j + 1));// aтрибут  
             NewColumn.cellStatus = "0"; // 0 - пусто; 1 -  крестик; 2 - нолик;  
-            NewColumn.addEventListener("mousedown", cellMouseDown);
-            NewLine.appendChild(NewColumn);
+            NewColumn.addEventListener("mousedown", cellMouseDown);// нажатие кнопки
+            NewLine.appendChild(NewColumn); // вставить в конец элемента переданный элемент
         }
-        NotMyTable.appendChild(NewLine);
+        NotMyTable.appendChild(NewLine); 
     }
 }
 function cellMouseDown(e) {
