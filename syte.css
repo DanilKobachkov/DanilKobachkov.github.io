@@ -70,7 +70,7 @@ body{
 .basement{
     background:rgb(161, 161, 161, 0.9);
     color: black;
-    font-family: Marker Felt, fantasy;
+    font-family: 'Ubuntu Condensed', sans-serif;
     font-size: 20pt;
     line-height: 0.9em;
     text-align: left;
