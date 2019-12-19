@@ -34,7 +34,7 @@ body{
     margin-left: 25%; 
 }
 .groop3{
-    background:rgb(255,255,255);
+    background:rgb(255,255,255,0.5);
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
