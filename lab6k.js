@@ -19,7 +19,7 @@ function Tablica() {
 }
 function cellMouseDown(e) {//проверка на нажатие мышки
     e = e || window.event; //получаем объект события так
-    let el = e.target || e.c
+    let el = e.target || e.c;
     let index1 = el.closest("tr").rowIndex;
     let index2 = el.closest("td").cellIndex;
     if (e.which == 1) {
