@@ -13,7 +13,7 @@ body{
     background-attachment: fixed;
 }
 .groop{
-    background:yellow;
+    background:rgb (255, 255, 0, 0.9);
     color: black;
     //font-family: Times, serif; 
     font-family: Bradley Hand, cursive;
