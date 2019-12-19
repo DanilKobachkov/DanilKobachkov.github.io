@@ -1,5 +1,5 @@
 
-   .block1 { 
+.block1 { 
     background-color: Orange;
     color: red;
     font-family: Times, serif; 
@@ -7,4 +7,9 @@
     font-size: 15pt;
     margin: 15px;
     line-height: 0.9em;
-   }
+}
+body{
+    background-image: url("fon.png");
+    
+    background-attachment: fixed;
+}
