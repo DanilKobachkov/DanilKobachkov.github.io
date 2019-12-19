@@ -12,3 +12,12 @@ body{
     background-image: url("background.jpg");
     background-attachment: fixed;
 }
+.groop{
+    background:rgb(161, 161, 161, 0.9);
+    color: black;
+    //font-family: Times, serif; 
+    font-family: Bradley Hand, cursive;
+    font-size: 35pt;
+    line-height: 0.9em;
+    text-align: center
+ }
