@@ -5,7 +5,8 @@
     font-family: Bookman, URW Bookman L, serif;
     font-size: 35pt;
     line-height: 0.9em;
-    text-align: center
+    text-align: center;
+    font-variant: small-caps;
 }
 body{
     background-image: url("background.jpg");
