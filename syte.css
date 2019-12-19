@@ -7,6 +7,7 @@
     font-size: 30pt;
     margin: 15px;
     line-height: 0.9em;
+    text-align: center
 }
 body{
     background-image: url("background.jpg");
