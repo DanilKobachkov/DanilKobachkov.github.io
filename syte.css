@@ -8,6 +8,15 @@
     text-align: center;
     font-variant: small-caps;
   }
+.menu{
+    background:rgb(224, 161, 0,0.9);
+    color: black;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 35pt;
+    line-height: 0.9em;
+    text-align: center;
+    font-variant: small-caps;
+}
 body{
     background-image: url("background.jpg");
     background-attachment: fixed;
