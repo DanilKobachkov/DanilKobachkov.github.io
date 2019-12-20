@@ -1422,7 +1422,7 @@ body{
 }
 @media screen and (min-width:1366px) and (max-width:1366px){/*ipad pro перевернутый*/
     .block1{
-      font-size: 60px;
+      font-size: 60pt;
     }
      element.style {
         width: 320px;
@@ -1501,7 +1501,7 @@ body{
       height: 255px;;
      }
     .img{
-      margin-left: 12%;
+      margin-left: 3%;
      } 
     .nirvana {
       margin-left: 1%;
