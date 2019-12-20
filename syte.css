@@ -16,6 +16,9 @@
     line-height: 0.9em;
     font-variant: small-caps;
 }
+.img {
+    float: right; /* Выравнивание по правому краю */
+  }
 body{
     background-image: url("background.jpg");
     background-attachment: fixed;
