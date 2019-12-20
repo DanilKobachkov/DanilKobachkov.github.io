@@ -101,7 +101,7 @@ body{
      text-align: left;
     margin-bottom: 2%;
   }
-@media screen and (max-width:376px) and (min-width:375px){ iphone x
+@media screen and (min-width:375px){ iphone x
     .block1{
         font-size:34px;
     }
@@ -167,7 +167,7 @@ body{
         margin-left: 27%;
     } 
 }
-@media screen and (width:360px){ //samsung s5
+@media screen and (max-width:360px){ //samsung s5
     .block1{
         font-size:34px;
     }
@@ -232,5 +232,72 @@ body{
     .nirvana
     {
         margin-left: 27%;
+    } 
+}
+@media screen and (min-width:411px){ //pixel 2
+    .block1{
+        font-size:34px;
+    }
+    .menu{
+     font-size: 27pt; 
+    }
+    .groop{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 13%;  
+    font-size: 18pt;    
+    }
+     .groop2{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;   
+    }
+     .groop3{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt; 
+    }
+     .groop4{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;  
+    }
+     .groop5{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;
+    }
+    #nirvana{
+      width: 363px;
+      height: 483px;
+    }
+    #metallica{
+      width: 363px;
+      height: 202px;
+}
+    }
+    #muse{
+      width:363px;
+      height:364px;  
+    }
+    #rhcp{ 
+      width: 363px;
+      height: 242px;
+     }
+    #queen {
+    width: 363px;
+    height: 243px;
+    margin-left: 25%;
+    }
+    .img{
+       margin-left: 25%;
+     } 
+    .nirvana
+    {
+       margin-left: 27%;
     } 
 }
