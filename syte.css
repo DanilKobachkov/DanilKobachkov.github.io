@@ -898,7 +898,7 @@ body{
       margin-left: 2%;
     }
 }
-@media screen and (min-width:731px) and (max-width:731px){ /*pixel 2 XL перевернутый*/
+@media screen and (min-width:823px) and (max-width:823px){ /*pixel 2 XL перевернутый*/
     .block1{
       font-size: 60px;
     }
