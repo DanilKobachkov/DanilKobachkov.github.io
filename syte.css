@@ -101,7 +101,7 @@ body{
      text-align: left;
     margin-bottom: 2%;
   }
-@media screen and (max-width:375px){ iphone x
+@media screen and (width:375px){ iphone x
     .block1{
         font-size:34px;
     }
@@ -167,7 +167,7 @@ body{
         margin-left: 27%;
     } 
 }
-@media screen and (max-width:360px){ //samsung s5
+@media screen and (width:360px){ //samsung s5
     .block1{
         font-size:34px;
     }
