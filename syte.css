@@ -388,9 +388,8 @@ body{
      font-size: 27pt; 
     }
     .groop{
-   
-    margin-right: 4%; 
-    margin-left: 4%;  
+    margin-right: 1px;
+    margin-left: 1%; 
     margin-top: 13%;  
     font-size: 18pt;    
     }
@@ -402,8 +401,8 @@ body{
     line-height: 0.9em;
     text-align:justify;
     margin-top: 3%;
-    margin-right: 4%; 
-    margin-left: 4%;  
+    margin-right: 1px;
+    margin-left: 1%;  
 }
 .groop3{
     background:rgb(255,255,255,0.7);
@@ -413,8 +412,8 @@ body{
     line-height: 0.9em;
     text-align:justify;
     margin-top: 3%;
-    margin-right: 4%; 
-    margin-left: 4%;   
+    margin-right: 1px;
+    margin-left: 1%;  
 }
 .groop4{
     background:rgb(208,0,0,0.7);
@@ -424,8 +423,8 @@ body{
     line-height: 0.9em;
     text-align:justify;
     margin-top: 3%;
-    margin-right: 4%; 
-    margin-left: 4%;  
+    margin-right: 1px;
+    margin-left: 1%;
 }
 .groop5{
     background:rgb(0,0,0,0.7);
@@ -435,8 +434,8 @@ body{
     line-height: 0.9em;
     text-align: justify;
     margin-top: 3%;
-    margin-right: 4%; 
-    margin-left: 4%;   
+    margin-right: 1px;
+    margin-left: 1%;
 }
     #nirvana{
       width: 316px;
