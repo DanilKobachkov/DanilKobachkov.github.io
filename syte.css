@@ -167,7 +167,7 @@ body{
         margin-left: 27%;
     } 
 }
-@media screen and (width:360px) and (height:640px){  
+@media screen and (width:360px) and (height:640px){ //galaxy s5 
     .block1{
         font-size:34px;
     }
@@ -205,11 +205,11 @@ body{
     font-size: 18pt;
     }
     #nirvana{
-      width: 330px;
+      width: 316px;
       height:439px;
     }
     #metallica{
-      width:331px;
+      width:316px;
       height:173px;
     }
     #muse{
@@ -220,13 +220,14 @@ body{
      
     }
     #queen{
-      width:331px;
+      width:316px;
       height:221px;
       margin-left:15%;
     }
     .img{
         margin-left: 25%;
-        
+        width:316px;
+        height:220px;
     } 
     .nirvana
     {
