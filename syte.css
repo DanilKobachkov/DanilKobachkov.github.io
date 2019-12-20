@@ -15,10 +15,8 @@
     font-size: 27pt;
     line-height: 0.9em;
     font-variant: small-caps;
+    margin-left: 8%;
 }
-.img {
-   margin-left: 5%;
-  }
 body{
     background-image: url("background.jpg");
     background-attachment: fixed;
