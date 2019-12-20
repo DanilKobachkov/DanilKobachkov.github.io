@@ -466,8 +466,7 @@ body{
     .block1{
         font-size:34px;
     }
-  
-    element.style {
+     element.style {
         width: 320px;
     }
     .menu{
@@ -551,4 +550,91 @@ body{
       margin-left: 25%;
     }
 }
+@media screen and (min-width:768px) and (max-width:768px){ /*ipad*/
+    .block1{
+        font-size:34px;
+    }
+     element.style {
+        width: 320px;
+    }
+    .menu{
+     font-size: 27pt; 
+    }
+    .groop{
+    margin-right: 1px;
+    margin-left: 1%; 
+    margin-top: 13%;  
+    font-size: 18pt;    
+    }
+    .groop2{
+    background:rgb(0,0,0,0.7);
+    color: white;
+    font-family: Bradley Hand, cursive;
+    font-size: 20pt;
+    line-height: 0.9em;
+    text-align:justify;
+    margin-top: 3%;
+    margin-right: 1px;
+    margin-left: 1%;  
+}
+.groop3{
+    background:rgb(255,255,255,0.7);
+    color: black;
+    font-family: Bradley Hand, cursive;
+    font-size: 20pt;
+    line-height: 0.9em;
+    text-align:justify;
+    margin-top: 3%;
+    margin-right: 1px;
+    margin-left: 1%;  
+}
+.groop4{
+    background:rgb(208,0,0,0.7);
+    color: black;
+    font-family: Bradley Hand, cursive;
+    font-size: 20pt;
+    line-height: 0.9em;
+    text-align:justify;
+    margin-top: 3%;
+    margin-right: 1px;
+    margin-left: 1%;
+}
+.groop5{
+    background:rgb(0,0,0,0.7);
+    color: rgb(240,230,140.7);
+    font-family: Bradley Hand, cursive;
+    font-size: 20pt;
+    line-height: 0.9em;
+    text-align: justify;
+    margin-top: 3%;
+    margin-right: 1px;
+    margin-left: 1%;
+}
+    #nirvana{
+      width: 393px;
+      height: 523px;
+    }
+    #metallica{
+      width: 393px;
+      height: 220px;
+    }
+    #muse{
+      width: 393px;
+      height: 394px;  
+    }
+    #rhcp{ 
+      width: 393px;
+      height: 262px;
+     }
+    #queen{
+      width: 393px;
+      height: 263px;
+      margin-left:25%;
+    }
+    .img{
+       margin-left: 25%;
+     } 
+    .nirvana {
+      margin-left: 25%;
+    }
 }
