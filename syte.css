@@ -14,8 +14,8 @@
 }
 .nirvana{
     margin-left: 10%; 
-    display: none;
-}
+    display: block;
+ }
 .img{
     margin-left: 8%; 
  }
@@ -33,6 +33,7 @@ body{
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
+    display: none;
 }
 .groop2{
     background:rgb(0,0,0,0.7);
