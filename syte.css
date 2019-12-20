@@ -380,6 +380,10 @@ body{
     .block1{
         font-size:34px;
     }
+  
+    element.style {
+        width: 320px;
+    }
     .menu{
      font-size: 27pt; 
     }
