@@ -12,7 +12,6 @@
     background:rgb(224, 152, 0,0.9);
     line-height: 0.9em;
 }
-
 .nirvana{
     margin-left: 10%; 
  }
@@ -22,6 +21,14 @@
 body{
     background-image: url("background.jpg");
     background-attachment: fixed;
+}
+.stealth 
+{
+    display: none;
+}
+.stealth:target 
+{
+    display: block;
 }
 .groop{
     background:rgb(0, 0, 0, 0.7);
