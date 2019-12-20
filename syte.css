@@ -167,3 +167,70 @@ body{
         margin-left: 27%;
     } 
 }
+@media screen and (max:360px){ //iphone x
+    .block1{
+        font-size:34px;
+    }
+    .menu{
+     font-size: 27pt; 
+    }
+    .groop{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 13%;  
+    font-size: 18pt;    
+    }
+     .groop2{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;   
+    }
+     .groop3{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt; 
+    }
+     .groop4{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;  
+    }
+     .groop5{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;
+    }
+    #nirvana{
+      width: 316x;
+      height:439px;
+    }
+    #metallica{
+      width:316;
+      height:173px;
+    }
+    #muse{
+      width:316;
+      height:331px;  
+    }
+    #rhcp{ 
+      width:316;
+      height:331px;
+     }
+    #queen{
+      width:316px;
+      height:221px;
+      margin-left:25%;
+    }
+    .img{
+       margin-left: 25%;
+        
+    } 
+    .nirvana
+    {
+        margin-left: 27%;
+    } 
+}
