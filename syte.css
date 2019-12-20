@@ -97,7 +97,7 @@ body{
     margin-bottom: 2%;
     line-height: 0.9em;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:1792px){
     .block1{
         font-size:34px;
     }
