@@ -101,7 +101,7 @@ body{
      text-align: left;
     margin-bottom: 2%;
   }
-@media screen and (max-width:370px){ //iphone x
+@media screen and (max-width:375px){ //iphone x
     .block1{
         font-size:34px;
     }
@@ -159,7 +159,7 @@ body{
       margin-left:25%;
     }
     .img{
-        margin-left: 25%;
+       margin-left: 25%;
         
     } 
     .nirvana
