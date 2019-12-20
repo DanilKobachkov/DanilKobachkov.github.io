@@ -12,9 +12,16 @@
     background:rgb(224, 152, 0,0.9);
     line-height: 0.9em;
 }
+.stealth 
+{
+    display: none;
+}
+.stealth:target 
+{
+    display: block;
+}
 .nirvana{
     margin-left: 10%; 
-    display: block;
  }
 .img{
     margin-left: 8%; 
