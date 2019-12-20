@@ -464,7 +464,7 @@ body{
 }
 @media screen and (min-width:414px) and (max-width:414px){ /*iphone 6/7plus*/
     .block1{
-        font-size:34px;
+        font-size: 63px;
     }
      element.style {
         width: 320px;
@@ -631,9 +631,9 @@ body{
       height: 263px;
      }
     .img{
-       margin-left: 25%;
+       margin-left: 7%;
      } 
     .nirvana {
-      margin-left: 25%;
+      margin-left: 9%;
     }
 }
