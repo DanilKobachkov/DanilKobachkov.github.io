@@ -1072,7 +1072,7 @@ body{
       margin-left: 36%;
     }
 }
-@media screen and (min-width:677px) and (max-width:667px){/*iphone 6/7 перевернутый*/
+@media screen and (min-width:667px) and (max-width:667px){/*iphone 6/7/8 перевернутый*/
     .block1{
       font-size: 60px;
     }
