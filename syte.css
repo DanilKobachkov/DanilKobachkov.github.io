@@ -104,4 +104,8 @@ body{
     .menu{
      font-size: 27pt;   
     }
+    .groop{
+    margin-right: 10%; 
+    margin-left: 10%;  
+    }
 }
