@@ -1333,7 +1333,7 @@ body{
       margin-left: 2%;
     }
 }
-@media screen and (min-width:768px) and (max-width:768px){/*iphone X перевернутый*/
+@media screen and (min-width:768px) and (max-width:768px){/*ipad перевернутый*/
     .block1{
       font-size: 60px;
     }
@@ -1398,8 +1398,8 @@ body{
      height: 441px;
     }
     #metallica{
-     width: 748px;
-     height: 419px;
+     width: 706px;
+     height: 396px;
     }
     #muse{
      width: 274px;
@@ -1414,9 +1414,9 @@ body{
       height: 255px;;
      }
     .img{
-      margin-left: 13%;
+      margin-left: 12%;
      } 
     .nirvana {
-      margin-left: 2%;
+      margin-left: 1%;
     }
 }
