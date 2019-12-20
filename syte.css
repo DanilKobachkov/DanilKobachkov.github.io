@@ -813,7 +813,7 @@ body{
 }
 @media screen and (min-width:731px) and (max-width:731px){ /*pixel 2 перевернутый*/
     .block1{
-       font-size: 68px;
+      font-size: 60px;
     }
      element.style {
         width: 320px;
@@ -892,7 +892,7 @@ body{
       height: 263px;
      }
     .img{
-      margin-left: 4%;
+      margin-left: 9%;
      } 
     .nirvana {
       margin-left: 2%;
