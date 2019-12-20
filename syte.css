@@ -234,7 +234,7 @@ body{
         margin-left: 27%;
     } 
 }
-@media screen and (min-width:411px){ //pixel 2
+@media screen and (max-width:411px){ //pixel 2
     .block1{
         font-size:34px;
     }
