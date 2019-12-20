@@ -98,21 +98,15 @@ body{
     line-height: 0.9em;
 }
 .image{
-    background:rgb(224, 161, 0, 0.9);
-    color: black;
-    font-family: 'Ubuntu Condensed', sans-serif;
-    font-size: 20pt;
-    line-height: 0.9em;
-    text-align: left;
+     text-align: left;
     margin-bottom: 2%;
-    line-height: 0.9em;
-}
+  }
 @media screen and (max-width:500px){
     .block1{
         font-size:34px;
     }
     .menu{
-     font-size: 27pt;   
+     font-size: 27pt; 
     }
     .groop{
     margin-right: 4%; 
@@ -144,4 +138,6 @@ body{
     margin-top: 10%;  
     font-size: 18pt;  
     }
+    .image{
+        margin-left:10%;
 }
