@@ -460,23 +460,26 @@ body{
     }
     .img{
        margin-left: 25%;
-        
-    } 
-@media screen and (min-width:414px) and (max-width:414px){ /*iphone 6/7*/
+     } 
+}
+@media screen and (min-width:414px) and (max-width:414px){ /*iphone 6/7plus*/
     .block1{
         font-size:34px;
     }
   
- .menu{
+    element.style {
+        width: 320px;
+    }
+    .menu{
      font-size: 27pt; 
     }
- .groop{
+    .groop{
     margin-right: 1px;
     margin-left: 1%; 
     margin-top: 13%;  
     font-size: 18pt;    
     }
- .groop2{
+    .groop2{
     background:rgb(0,0,0,0.7);
     color: white;
     font-family: Bradley Hand, cursive;
@@ -520,28 +523,28 @@ body{
     margin-right: 1px;
     margin-left: 1%;
 }
- #nirvana{
+    #nirvana{
       width: 299px;
       height: 398px;
     }
- #metallica{
+    #metallica{
       width: 300px;
       height: 168px;
     }
- #muse{
+    #muse{
       width: 300px;
       height: 301px;  
-     }
- #rhcp{ 
+    }
+    #rhcp{ 
       width: 300px;
       height: 200px;
      }
- #queen{
+    #queen{
       width: 300px;
       height: 201px;
       margin-left:25%;
     }
- .img{
-      margin-left: 25%;
-    } 
-  }
+    .img{
+       margin-left: 25%;
+     } 
+}
