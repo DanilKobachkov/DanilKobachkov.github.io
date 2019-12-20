@@ -1050,25 +1050,25 @@ body{
      height: 441px;
     }
     #metallica{
-      width: 485px;
-      height: 276px;
+     width: 518px;
+     height: 290px;
     }
     #muse{
-      width: 335px;
-      height: 336px; 
+     width: 274px;
+     height: 275px;
     }
     #rhcp{ 
       width: 242px;
       height: 161px;
      }
     #queen{
-      width: 485px;
-      height: 324px;
+      width: 517px;
+      height: 346px;
      }
     .img{
-      margin-left: 12%;
+      margin-left: 35%;
      } 
     .nirvana {
-      margin-left: 6%;
+      margin-left: 36%;
     }
 }
