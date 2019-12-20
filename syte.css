@@ -167,7 +167,7 @@ body{
         margin-left: 27%;
     } 
 }
-@media screen and (max:360px){ //iphone x
+@media screen and (max-width:360px){ //iphone x
     .block1{
         font-size:34px;
     }
