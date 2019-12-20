@@ -99,6 +99,9 @@ body{
 }
 @media screen and (max-width:400px){
     .block1{
-        font-size:30px;
+        font-size:34px;
+    }
+    .menu{
+     font-size: 30pt;   
     }
 }
