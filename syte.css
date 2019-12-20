@@ -156,9 +156,11 @@ body{
     #queen{
       width:331px;
       height:221px;
+      margin-left:15%;
     }
     .img{
         margin-left: 27%;
+        
     } 
     .nirvana
     {
