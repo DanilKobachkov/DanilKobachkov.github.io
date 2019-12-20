@@ -110,23 +110,27 @@ body{
     font-size: 18pt;    
     }
      .groop2{
-    margin-right: 8%; 
-    margin-left: 8%;  
-    margin-top: 10%       
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;   
     }
      .groop3{
-    margin-right: 8%; 
-    margin-left: 8%;
-    margin-top: 10%  
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt; 
     }
      .groop4{
-    margin-right: 8%; 
-    margin-left: 8%;
-    margin-top: 10%  
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;  
     }
      .groop5{
-    margin-right: 8%; 
-    margin-left: 8%;
-    margin-top: 10%  
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;  
     }
 }
