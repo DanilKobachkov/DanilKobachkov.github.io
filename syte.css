@@ -50,6 +50,19 @@ body{
       width:498px;
       height:276px;
     }
+ #muse{
+     width:235px; 
+     height:237px; 
+    }
+    #rhcp{ 
+      width:330px;
+      height:220px;
+     }
+    #queen{
+      width:400px;
+      height:268px;
+      margin-left:25%;
+    }
 .groop2{
     background:rgb(0,0,0,0.7);
     color: white;
