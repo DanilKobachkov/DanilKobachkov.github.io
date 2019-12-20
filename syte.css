@@ -272,30 +272,30 @@ body{
     font-size: 18pt;
     }
     #nirvana{
-      width: 316px;
-      height:439px;
+      width: 363px;
+      height: 483px;
     }
     #metallica{
-      width:316px;
-      height:173px;
+      width: 363px;
+      height: 202px;
+}
     }
     #muse{
-      width:316px;
-      height:331px;  
+      width:363px;
+      height:364px;  
     }
     #rhcp{ 
-      width:316px;
-      height:331px;
+      width: 363px;
+      height: 242px;
      }
-    #queen{
-      width:316px;
-      height:221px;
-      margin-left:25%;
+    #queen {
+    width: 363px;
+    height: 243px;
+    margin-left: 25%;
     }
     .img{
        margin-left: 25%;
-        
-    } 
+     } 
     .nirvana
     {
        margin-left: 27%;
