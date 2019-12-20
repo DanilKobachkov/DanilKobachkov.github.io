@@ -167,3 +167,69 @@ body{
         margin-left: 27%;
     } 
 }
+@media screen and (width:360px) and (height:640px){  
+    .block1{
+        font-size:34px;
+    }
+    .menu{
+     font-size: 27pt; 
+    }
+    .groop{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 13%;  
+    font-size: 18pt;    
+    }
+     .groop2{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;   
+    }
+     .groop3{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt; 
+    }
+     .groop4{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;  
+    }
+     .groop5{
+    margin-right: 4%; 
+    margin-left: 4%;  
+    margin-top: 10%;  
+    font-size: 18pt;
+    }
+    #nirvana{
+      width: 330px;
+      height:439px;
+    }
+    #metallica{
+      width:331px;
+      height:173px;
+    }
+    #muse{
+      width:330px;
+      height:331px;  
+    }
+    #rhcp{ 
+     
+    }
+    #queen{
+      width:331px;
+      height:221px;
+      margin-left:15%;
+    }
+    .img{
+        margin-left: 25%;
+        
+    } 
+    .nirvana
+    {
+        margin-left: 27%;
+    } 
+}
