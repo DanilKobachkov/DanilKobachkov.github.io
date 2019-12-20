@@ -17,7 +17,8 @@
     font-variant: small-caps;
 }
 .img {
-    float: right; /* Выравнивание по правому краю */
+    float: left;
+    margin-left: 10%;
   }
 body{
     background-image: url("background.jpg");
