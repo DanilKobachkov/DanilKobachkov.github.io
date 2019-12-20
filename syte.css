@@ -302,8 +302,8 @@ body{
      font-size: 27pt; 
     }
     .groop{
-    margin-right: 4%; 
-    margin-left: 4%;  
+    margin-right: 3%;
+    margin-left: 3%; 
     margin-top: 13%;  
     font-size: 18pt;    
     }
@@ -315,8 +315,8 @@ body{
     line-height: 0.9em;
     text-align:justify;
     margin-top: 3%;
-    margin-right: 20%; 
-    margin-left: 20%; 
+    margin-right: 3%;
+    margin-left: 3%; 
 }
 .groop3{
     background:rgb(255,255,255,0.7);
