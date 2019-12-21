@@ -9,8 +9,9 @@
     font-variant: small-caps;
   }
 .menu{
-    background:rgb(224, 152, 0,0.9);
+    background:rgb(245, 152, 0,0.9);
     line-height: 0.9em;
+    margin-top: 4%; 
 }
 .nirvana{
     margin-left: 10%; 
