@@ -13,6 +13,15 @@
     line-height: 0.9em;
     margin-top: 4%; 
 }
+.info{
+    ackground:rgb(224, 161, 0,0.9);
+    color: black;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 35pt;
+    line-height: 0.9em;
+    text-align: center;
+    font-variant: small-caps;
+}
 .nirvana{
     margin-left: 10%; 
  }
