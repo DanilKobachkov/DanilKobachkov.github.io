@@ -11,7 +11,7 @@
 .menu{
     background:rgb(245, 152, 0,0.9);
     line-height: 0.9em;
-    margin-top: 4%; 
+    margin-top: 3%; 
 }
 .nirvana{
     margin-left: 10%; 
@@ -39,6 +39,7 @@ body{
     font-size: 25pt;
     line-height: 0.9em;
     text-align: center;
+    margin-top: 3%;
 }
 .groop{
     background:rgb(0, 0, 0, 0.7);
