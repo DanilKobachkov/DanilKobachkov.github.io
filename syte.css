@@ -79,7 +79,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
@@ -90,7 +90,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left; 
     margin-top: 3%;
     margin-right: 20%; 
@@ -101,7 +101,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
@@ -112,7 +112,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
@@ -122,7 +122,7 @@ body{
     background:rgb(224, 161, 0, 0.9);
     color: black;
     font-family: 'Ubuntu Condensed', sans-serif;
-    font-size: 20pt;
+    line-height: 35px;
     line-height: 0.9em;
     text-align: left;
     margin-top: 3%;
@@ -148,7 +148,7 @@ body{
     }
     .groop2{
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -159,7 +159,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -170,7 +170,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -181,7 +181,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -234,7 +234,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -245,7 +245,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -256,7 +256,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -267,7 +267,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
@@ -320,7 +320,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align:justify;
     margin-top: 3%;
     margin-right: 3%;
@@ -331,7 +331,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%; 
@@ -342,7 +342,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align:justify;
     margin-top: 3%;
     margin-right: 3%; 
@@ -353,7 +353,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%; 
@@ -410,7 +410,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -421,7 +421,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align:justify;
     margin-top: 3%;
     margin-right: 1%;
@@ -432,7 +432,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align:justify;
     margin-top: 3%;
     margin-right: 1%;
@@ -443,7 +443,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -495,7 +495,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -506,7 +506,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -517,7 +517,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -528,7 +528,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -583,7 +583,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align:justify;
     margin-top: 3%;
     margin-right: 1%;
@@ -594,7 +594,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -605,7 +605,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1px;
@@ -616,7 +616,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -670,7 +670,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -681,7 +681,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left; 
     margin-top: 3%;
     margin-right: 1px;
@@ -692,7 +692,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -703,7 +703,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -757,7 +757,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1px;
@@ -779,7 +779,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -790,7 +790,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -844,7 +844,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -855,7 +855,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -866,7 +866,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1px;
@@ -877,7 +877,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 1%;
@@ -931,7 +931,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -942,7 +942,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -953,7 +953,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -964,7 +964,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1018,7 +1018,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1029,7 +1029,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1040,7 +1040,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1051,7 +1051,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1105,7 +1105,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1116,7 +1116,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1127,7 +1127,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1138,7 +1138,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1192,7 +1192,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1203,7 +1203,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1214,7 +1214,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1225,7 +1225,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1279,7 +1279,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1290,7 +1290,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1301,7 +1301,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1312,7 +1312,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1366,7 +1366,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1377,7 +1377,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1388,7 +1388,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1399,7 +1399,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1453,7 +1453,7 @@ body{
     color: white;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1464,7 +1464,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1475,7 +1475,7 @@ body{
     color: black;
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
@@ -1486,7 +1486,7 @@ body{
     color: rgb(240,230,140.7);
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
-    line-height: 0.9em;
+    line-height: 35px;
     text-align: left;
     margin-top: 3%;
     margin-right: 3%;
