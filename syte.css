@@ -5,7 +5,7 @@
     font-family: 'Fira Sans Condensed', sans-serif;
     font-size: 35pt;
     line-height: 0.9em;
-    text-align: center;
+    text-align: left; 
     font-variant: small-caps;
   }
 .menu{
@@ -38,7 +38,7 @@ body{
     font-family: 'Fira Sans Condensed', sans-serif;
     font-size: 25pt;
     line-height: 0.9em;
-    text-align: center;
+    text-align: left;
     margin-top: 3%;
     display: flex; 
 }
@@ -48,7 +48,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
@@ -80,7 +80,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
@@ -91,7 +91,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:center;
+    text-align: left; 
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
@@ -102,7 +102,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
@@ -113,7 +113,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
@@ -149,7 +149,7 @@ body{
     .groop2{
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;
@@ -160,7 +160,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;
@@ -171,7 +171,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%; 
@@ -182,7 +182,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: center;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;
@@ -235,7 +235,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;  
@@ -246,7 +246,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;   
@@ -257,7 +257,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;  
@@ -268,7 +268,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 4%; 
     margin-left: 4%;   
@@ -332,7 +332,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%; 
     margin-left: 3%;  
@@ -354,7 +354,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%; 
     margin-left: 3%;  
@@ -411,7 +411,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -444,7 +444,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -496,7 +496,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -507,7 +507,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -518,7 +518,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -529,7 +529,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -595,7 +595,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -606,7 +606,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1px;
     margin-left: 1%;
@@ -617,7 +617,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -671,7 +671,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -682,7 +682,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left; 
     margin-top: 3%;
     margin-right: 1px;
     margin-left: 1%;  
@@ -693,7 +693,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -704,9 +704,9 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
-     margin-right: 1%;
+    margin-right: 1%;
     margin-left: 1%;
 }
     #nirvana{
@@ -758,7 +758,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1px;
     margin-left: 1%;  
@@ -769,7 +769,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -780,7 +780,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -791,7 +791,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -845,7 +845,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -856,7 +856,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;  
@@ -867,7 +867,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1px;
     margin-left: 1%;
@@ -878,7 +878,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 1%;
     margin-left: 1%;
@@ -932,7 +932,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -943,7 +943,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -954,7 +954,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -965,7 +965,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1019,7 +1019,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1030,7 +1030,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1041,7 +1041,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1052,7 +1052,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1106,7 +1106,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1117,7 +1117,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1128,7 +1128,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1139,7 +1139,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1193,7 +1193,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1204,7 +1204,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1215,7 +1215,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1226,7 +1226,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1280,7 +1280,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1291,7 +1291,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1302,7 +1302,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1313,7 +1313,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1367,7 +1367,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1378,7 +1378,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1389,7 +1389,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1400,7 +1400,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1454,7 +1454,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1465,7 +1465,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%; 
@@ -1476,7 +1476,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align:justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
@@ -1487,7 +1487,7 @@ body{
     font-family: Bradley Hand, cursive;
     font-size: 20pt;
     line-height: 0.9em;
-    text-align: justify;
+    text-align: left;
     margin-top: 3%;
     margin-right: 3%;
     margin-left: 3%;
