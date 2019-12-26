@@ -5,13 +5,22 @@
     font-family: 'Fira Sans Condensed', sans-serif;
     font-size: 35pt;
     line-height: 0.9em;
-    text-align: left; 
+    text-align: center; 
     font-variant: small-caps;
   }
 .menu{
     background:rgb(245, 152, 0,0.9);
     line-height: 0.9em;
     margin-top: 3%; 
+}
+#click{
+    background:rgb(224, 161, 0,0.9);
+    color: black;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 25pt;
+    line-height: 0.9em;
+    text-align: center; 
+    font-variant: small-caps; 
 }
 .nirvana{
     margin-left: 10%; 
