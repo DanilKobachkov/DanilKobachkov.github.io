@@ -123,12 +123,10 @@ body{
     color: black;
     font-family: 'Ubuntu Condensed', sans-serif;
     line-height: 35px;
-    line-height: 0.9em;
     text-align: left;
     margin-top: 3%;
-   
-    line-height: 0.9em;
-}
+    font-size: 20pt;
+ }
 .image{
      text-align: left;
     margin-bottom: 2%;
