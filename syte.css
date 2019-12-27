@@ -12,6 +12,7 @@
     background:rgb(245, 152, 0,0.9);
     line-height: 0.9em;
     margin-top: 3%; 
+    padding: 20px;
 }
 .nirvana{
     margin-left: 10%; 
@@ -41,6 +42,8 @@ body{
     text-align: left;
     margin-top: 3%;
     font-weight:500;
+    margin:10%;
+    padding: 20px;
 }
 .groop{
     background:rgb(0, 0, 0, 0.7);
@@ -53,6 +56,7 @@ body{
     margin-right: 20%; 
     margin-left: 20%; 
     display: block;
+    padding: 20px;
 }
  #nirvana{
       width:300px;
@@ -84,6 +88,7 @@ body{
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
+    padding: 20px;
 }
  .groop3{
     background:rgb(255,255,255,0.7);
@@ -95,6 +100,7 @@ body{
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
+    padding: 20px;
 }
 .groop4{
     background:rgb(208,0,0,0.7);
@@ -106,6 +112,7 @@ body{
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
+    padding: 20px;
 }
 .groop5{
     background:rgb(0,0,0,0.7);
@@ -117,6 +124,7 @@ body{
     margin-top: 3%;
     margin-right: 20%; 
     margin-left: 20%; 
+    padding: 20px;
 }
 .basement{
     background:rgb(224, 161, 0, 0.9);
@@ -126,7 +134,8 @@ body{
     text-align: left;
     margin-top: 3%;
     font-size: 21pt;
- }
+    padding: 20px; 
+}
 .image{
      text-align: left;
     margin-bottom: 2%;
