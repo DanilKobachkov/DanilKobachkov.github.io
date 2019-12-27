@@ -60,22 +60,27 @@ body{
  #nirvana{
       width:300px;
       height:404px;
+      padding: 25px;
     }
  #metallica{
       width:498px;
       height:276px;
-    }
+      padding: 10px;
+}
  #muse{
      width:209px; 
      height:210px; 
+     padding: 13px;
     }
   #rhcp{ 
       width:330px;
       height:220px;
+      padding: 23px;
      }
   #queen{
       width:400px;
       height:268px;
+      padding: 15px;
      }
 .groop2{
     background:rgb(0,0,0,0.7);
