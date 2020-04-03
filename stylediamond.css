@@ -1,4 +1,37 @@
 .diamond-logo h1
 {
-	font-size: 80px;
+	font-size: 75px;
+}
+.stealth 
+{
+    display: none;
+}
+.stealth:target 
+{
+    display: block;
+}
+.style
+{
+    background-color: white;
+    border: 8px black solid;
+    text-align: center;
+}
+.size
+{
+    font-family: Noto Sans, sans-serif;	
+    font-size: 25px;
+    
+ }
+
+.wrap
+{
+	display: inline-block;
+}
+.right
+{
+	margin-left: 90%;
+}
+.place
+{
+	float: right;
 }
