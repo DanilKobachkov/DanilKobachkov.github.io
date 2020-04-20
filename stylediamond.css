@@ -2,6 +2,10 @@
 {
 	font-size: 65px;
 }
+.jumbotron
+{
+	height:;
+}
 .stealth
 {
     display: none;
@@ -10,22 +14,15 @@
 {
     display: block;
 }
-.stealth1:target 
-{
-    display: none;
+
+
+.type{
+    border: 2px inset black;
+	background: #B0C4DE;	
+    font-size: 20px;
+	float: left;
 }
-.style
-{
-    background-color: white;
-    border: 2px black solid;
-    text-align: center;
-}
-.size
-{
-    font-family: Noto Sans, sans-serif;	
-    font-size: 25px;
-    
- }
+
 .name
 {
 	font-family: 'Gabriela', serif;
@@ -36,9 +33,25 @@
 {
 	float: right;
 }
-hr {
+hr 
+{
     border: none;
     background-color: black; 
     height: 2px; 
-   }
-   
+}
+a:hover 
+{
+	text-decoration: none; 
+}
+ A /*cсылки */
+{
+	color: 00fbff;
+}
+A:visited 
+{
+    color: 00fbff;
+}
+A:active 
+{
+    color: 00fbff;
+}
