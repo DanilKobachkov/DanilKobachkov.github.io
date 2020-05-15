@@ -1,0 +1,66 @@
+{
+  "11111": {
+    "name" : "Золотое шейное украшение с бриллиантами",
+    "model": "Модель: 20009-H5R-01",
+    "cost" : "24950",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g4.sunlight.net/media/products/c1d28e4383d23609113e1f58e47e861ca35ccea6.jpg"
+  },
+  "11112": {
+    "name" : "Золотое шейное украшение с бриллиантом",
+    "model": "Модель: 20037-B5W-01",
+    "cost" : "15990",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g6.sunlight.net/media/products/a9596ee4ee62157179b75dcff66f596129a4c5d6.jpg"
+  },
+  "11113": {
+    "name" : "Золотое колье с аметистом и фианитами",
+    "model": "Модель: Кл122-089Ам*  ",
+    "cost" : "24950",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g3.sunlight.net/media/products/d8e7ff6c36609372d7c696d36bdf54a311cfdeb6.jpg"
+  },
+  "11114": {
+    "name" : "Серебряный браслет",
+    "model": "Модель: S10237-B9W-01",
+    "cost" : "6490",
+    "brand" : "Бренд: ALUNNO & CO.",
+    "image": "https://g5.sunlight.net/media/products/b9c870af19625a72d16b29502af0310758d1ecb0.jpg"
+  },
+  "11115": {
+    "name" : "Серебряное шейное украшение с фианитами",
+    "model": "Модель: S2578-H9W-01",
+    "cost" : "990",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g9.sunlight.net/media/products/9a153f4a70f820a3278cc96609c09b07ff5476dd.jpg"
+  },
+  "11116": {
+    "name" : "Золотое колье",
+    "model": "Модель: 73614.1*",
+    "cost" : "3990",
+    "brand" : "Бренд: AQUAMARINE",
+    "image": "https://g1.sunlight.net/media/products/ee481c86a6ed666aecdea922e9434a0bc3642556.jpg"
+  },
+  "11117": {
+    "name" : "Серебряное колье с эмалью SOKOLOV",
+    "model": "Модель: 94070184",
+    "cost" : "1990",
+    "brand" : "Бренд: SOKOLOV",
+    "image": "https://g6.sunlight.net/media/products/354b4f11cfbda1d75da0a3342f3212f20ac5a8fb.jpg"
+  },
+  "11118": {
+    "name" : "Золотое колье с гранатом SOKOLOV",
+    "model": "Модель: 770216*",
+    "cost" : "11990",
+    "brand" : "Бренд: SOKOLOV",
+    "image": "https://g1.sunlight.net/media/products/3f15b9a92c31808935755586a8338cbc3b908d77.jpg"
+  },
+  "11119": {
+    "name" : "Серебряное колье" ,
+    "model": "Модель: с070558пзж",
+    "cost" : "1290",
+    "brand" : "Бренд: DEL'TA",
+    "image": "https://g3.sunlight.net/media/products/c5040808963eb434503b751035c32ad095d6d0bd.jpg"
+  }
+}
+
