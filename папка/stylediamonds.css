@@ -1,1 +1,76 @@
+.name
+{
+    font-family: 'Gabriela', serif;
+}
+.line
+{
+    border: none;
+    background-color: white;
+    height: 2px;
+}
+.img
+{
+    text-align:left;
+    height: 50px;
+    width: 50px;
+}
+.navbar {
+    margin-bottom: 40px;
+    border-radius: 0;
+}
+.jumbotron {
+    margin-bottom: 0;
+    background-color: #eee;
+}
+.container{
+}
+
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+    color: white;
+}
+
+.sub-menu
+{
+    display: none;
+}
+.main-item:focus ~ .sub-menu,
+.main-item:active ~ .sub-menu,
+.sub-menu:hover
+{
+    display: block;
+}
+TD.leftcol {
+    width: 110px; /* Ширина левой колонки с рисунком */
+    vertical-align: top; /* Выравнивание по верхнему краю */
+}
+.stealth
+{
+    display: none;
+}
+.stealth:target
+{
+    display: block;
+}
+.col2 li{
+    float:left;
+    width:50%;
+}
+
+.sort{
+    margin-left: 15px;
+    background: rgb(218, 238, 247);
+    color: rgb(46, 112, 144);
+}
+body
+{
+    font-family: 'Marmelad', sans-serif;
+    font-size: 17px;
+}
+.sale{
+    display: block;
+    max-width: 100%;
+    height: 461px;
+}
 
