@@ -1,0 +1,66 @@
+{
+  "11111": {
+    "name" : "Золотой браслет с бриллиантами",
+    "model": "Модель: 7534-B5R-01",
+    "cost" : "89990",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g5.sunlight.net/media/products/91e0d6f3404586c1b2184d264cd57c13d49566ce.jpg"
+  },
+  "11112": {
+    "name" : "Золотой браслет с бриллиантами",
+    "model": "Модель: 20037-B5W-01",
+    "cost" : "29990",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g4.sunlight.net/media/products/aedb70f0e008fb9dfabfdf5dd1054630b1c5337b.jpg"
+  },
+  "11113": {
+    "name" : "Золотой браслет со шпинелью",
+    "model": "Модель: 500-107_tplst-101*",
+    "cost" : "38970",
+    "brand" : "Бренд: MASKOM",
+    "image": "https://g2.sunlight.net/media/products/0f3b05bda98c1adf361821f1f0267003c07f9a4e.jpg"
+  },
+  "11114": {
+    "name" : "Золотой браслет",
+    "model": "Модель: 125-2145",
+    "cost" : "13495",
+    "brand" : "Бренд: MASKOM",
+    "image": "https://g8.sunlight.net/media/products/c998e049a5de95afe1d10180f7d5646fab19133d.jpg"
+  },
+  "11115": {
+    "name" : "Золотой браслет с фианитами",
+    "model": "Модель: 771053*",
+    "cost" : "19990",
+    "brand" : "Бренд: DEL'TA",
+    "image": "https://g7.sunlight.net/media/products/32ca1e97de23aebac366e30c1290a111d497852e.jpg"
+  },
+  "11116": {
+    "name" : "Золотой браслет",
+    "model": "Модель: B12422-B5Y-01",
+    "cost" : "44950",
+    "brand" : "Бренд: NUBIA",
+    "image": "https://g5.sunlight.net/media/products/8d725d921f88b9426f2bbacb8de458edd3ad50ce.jpg"
+  },
+  "11117": {
+    "name" : "Золотой браслет с ониксом",
+    "model": "Модель: 10111-B5Y-01",
+    "cost" : "9990",
+    "brand" : "Бренд: ECLAT",
+    "image": "https://g2.sunlight.net/media/products/1261b9be587f1755811484cfcd24c1449ddbafa5.jpg"
+  },
+  "11118": {
+    "name" : "Серебряный браслет с аметистом и фианитами",
+    "model": "Модель: S40224-B9W-03",
+    "cost" : "4990",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g6.sunlight.net/media/products/baea99d0ede8f97626694fa9e64269d02e667111.jpg"
+  },
+  "11119": {
+    "name" : "Серебряный браслет" ,
+    "model": "Модель: S10236-B9W-01",
+    "cost" : "5490",
+    "brand" : "Бренд: ALUNNO & CO.",
+    "image": "https://g6.sunlight.net/media/products/9dc8d53508e19f070affc5141411c99db30cab7c.jpg"
+  }
+}
+
