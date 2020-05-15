@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Мир украшений</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<link href="https://fonts.googleapis.com/css2?family=Gabriela&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Marmelad&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="stylediamond.css" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<script src="javascript.js"></script>
+</head>
+<body>
+<div class="jumbotron">
+	<div class="container text-center">
+		<h1 class="name">Мир украшений</h1>
+	</div>
+</div>
+
+<nav class="navbar navbar-inverse">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a href=""></a>
+			<a class="navbar-brand"><img src= "https://github.com/Randomunzo/Randomunzo.github.io/blob/master/diamond.png?raw=true" width="25" height="25"alt="diamond"></a>
+		</div>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav">
+				<li class=""><a href="decoration.html">Главная страница</a></li>
+				<li a class="main-item" href="javascript:void(0);" tabindex="2"><a>Каталог</a></li>
+				<li class=""><a href="#7">Наши контакты</a></li>
+				<ul class="sub-menu col2">
+					<li type="circle"><a href="#1">Кольца</a></li>
+					<li><a href="#2">Серьги</a></li>
+					<li><a href="#3">Часы</a></li>
+					<li><a href="#4">Браслеты</a></li>
+					<li><a href="#5">Броши</a></li>
+					<li><a href="#6">Колье</a></li>
+				</ul>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<div class="stealth" id="0">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,6)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,6)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+		<div id="all">
+		</div>
+	</div>
+</div>
+
+<div class="stealth" id="1">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,0)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,0)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+  		<div id="rings">
+  		</div>
+	</div>
+</div>
+
+<div class="stealth" id="2">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,1)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,1)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+		<div id="earrings">
+		</div>
+	</div>
+</div>
+
+<div class="stealth" id="3">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,2)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,2)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+		<div id="clock">
+		</div>
+	</div>
+</div>
+
+<div class="stealth" id="4">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,3)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,3)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+		<div id="bracelets">
+		</div>
+	</div>
+</div>
+
+<div class="stealth" id="5">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,4)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,4)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+		<div id="brooches">
+		</div>
+	</div>
+</div>
+
+<div class="stealth" id="6">
+	<div class="row">
+		<div>
+			<button class="sort" value="0" class="btn btn-outline-info" onclick="sort(this,5)">По возростанию цены</button>
+			<button class="sort" value="1" class="btn btn-outline-info" onclick="sort(this,5)">По убыванию цены</button>
+			<button class="sort" value="2" class="btn btn-outline-info" onclick="loadGoods()">По умолчанию</button>
+		</div>
+		<div id="necklace">
+		</div>
+	</div>
+</div><br><br>
+
+<footer class="navbar1 navbar-inverse text-center">
+	<hr class="line" id="7">
+	Адрес ВКИ НГУ: 630058, г. Новосибирск, ул. Русская, 35. <br>
+	Телефон ВКИ НГУ:<a href="tel:+78142332211">+7(814)-233-22-11 <br></a>
+	Мой E-mail: <a href = mailto:daniel-2001@bk.ru>daniel-2001@bk.ru<br></a>
+	Мой телефон <a href="tel:+79994631550">+7 (999)-463-15-50<br></a>
+	Сайт создан при поддержки компании "ООО Кошачий глаз"<br>
+	"ООО Кошачий глаз"- лучшая компания на рынке бесполезных сайтов<br>
+	Корпаративы, свадьбы,дни рождения, похороны... <br>
+	"Если нет сайта у вас, позвони в "Кошачий глаз"<br>
+	Все права не лицензированы<br>
+	<a href="Техническое задание.pdf"><img src="pdf.png" width="55" height="55"></a>
+	<hr class="line">
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</body>
+</html>
