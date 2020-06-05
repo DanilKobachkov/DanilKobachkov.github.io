@@ -211,7 +211,7 @@ function loadGoods() {
             out+='<div class="panel panel-info">';
             out+='<div class="panel-heading">'+'<p>'+data[key]['name']+'</p>'+data[key]['model']+'</div>';
             out+='<div class="panel-body">'+'<table width="100%" cellspacing="0" cellpadding="0">'
-                +'<tr>'+'<td class="leftcol">'+'<img src="'+data[key].image+'" width="100px">'+'</td>'+'<td valign="top">'
+                +'<tr>'+'<td class="leftcol">'+'<img src="'+data[key].image+'"height="100px" width="100px">'+'</td>'+'<td valign="top">'
                 +'<p>'+data[key]['cost']+" руб."+'</p>'+'<p>'+data[key]['brand']+'</p>'+'</td>'+'</tr>'+'</table>'+'</div>';
             out+='</div>';
             out+='</div>';
