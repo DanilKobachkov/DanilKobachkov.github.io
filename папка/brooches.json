@@ -1,0 +1,66 @@
+{
+  "11111": {
+    "name" : "Серебряная брошь с янтарем",
+    "model": "Модель: 825002",
+    "cost" : "1290",
+    "brand" : "Бренд: ЯНТАРНАЯ ВОЛНА",
+    "image": "https://g2.sunlight.net/media/products/bac2b1847af8fe74e82a4c45528c333759dfe43d.jpg"
+  },
+  "11112": {
+    "name" : "Золотая брошь с раухтопазами",
+    "model": "Модель: 20037-B5W-01",
+    "cost" : "55495",
+    "brand" : "Бренд: SOKOLOV",
+    "image": "https://g9.sunlight.net/media/products/64123cc290560529f582b5adfe300414fa93e4e9.jpg"
+  },
+  "11113": {
+    "name" : "Серебряная брошь с фианитами и перламутром",
+    "model": "Модель: S40154-O9W-02",
+    "cost" : "2790",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g2.sunlight.net/media/products/2df7e2ebb65e62f5e71eeacb84a079d3ae913df4.jpg"
+  },
+  "11114": {
+    "name" : "Серебряная брошь с янтарем",
+    "model": "Модель: 927041202ab",
+    "cost" : "1490",
+    "brand" : "Бренд: DARVIN",
+    "image": "https://g6.sunlight.net/media/products/49991cbe502c2fbd23378ac67da84e906f465490.jpg"
+  },
+  "11115": {
+    "name" : "Серебряная брошь с фианитами",
+    "model": "Модель: 94040139",
+    "cost" : "2790",
+    "brand" : "Бренд: SOKOLOV",
+    "image": "https://g5.sunlight.net/media/products/96af2668d173022ad6fcd242669ebdaf9edc098f.jpg"
+  },
+  "11116": {
+    "name" : "Серебряная брошь с фианитами и жемчугом",
+    "model": "Модель: S90026-09W-01",
+    "cost" : "2790",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g5.sunlight.net/media/products/ab7f63c7673a9b3a9936749ee6d0063c002dc237.jpg"
+  },
+  "11117": {
+    "name" : "Серебряная брошь-подвеска",
+    "model": "Модель: S30018-O9W-01",
+    "cost" : "1490",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g2.sunlight.net/media/products/dcd208b9de976c9209ddc44609ef205229897e88.jpg"
+  },
+  "11118": {
+    "name" : "Серебряная брошь с эмалью",
+    "model": "Модель: S30155-O9Y-01",
+    "cost" : "1290",
+    "brand" : "Бренд: SUNLIGHT",
+    "image": "https://g5.sunlight.net/media/products/02b9ca73107150799400758c0b0e637914b18ec7.jpg"
+  },
+  "11119": {
+    "name" : "Серебряная брошь с фианитами и эмалью" ,
+    "model": "Модель: 94040176",
+    "cost" : "1990",
+    "brand" : "Бренд: SOKOLOV",
+    "image": "https://g4.sunlight.net/media/products/41d7a49f878fe2b4f11efb52c1bc934e098f8cfc.jpg"
+  }
+}
+
